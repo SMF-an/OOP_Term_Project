@@ -1,0 +1,18 @@
+========================================
+Daily Diet Analysis Report
+----------------------------------------
+Name: Mufan
+Age: 20
+Gender(F/M): M
+Height(cm): 180
+Weight(kg): 70
+BMI: 21.6
+Physical Status: Normal
+Nutritional Intake Profile (daily recommendation in parentheses) :
+Food Energy Intake: 528 (2076kcal)
+Staple Food: 150 (200-300g)
+Animal Proteins: 0 (120-200g)
+Vegetables: 0 (300-500g)
+Fruits: 200 (200-350g)
+Dairy: 0 (300g)
+========================================
